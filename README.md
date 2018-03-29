@@ -10,7 +10,7 @@
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ### Instalar cliente de Git
-Para ser mais simples, instalar o cliente the Git:
+Para ser mais simples, instalar o cliente the Git do Github ou outro:
 
 https://desktop.github.com/
 

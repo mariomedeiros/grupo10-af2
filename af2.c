@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// para compilar cmd: gcc af2.c -o af2.exe
+// para compilar usar o commando: gcc af2.c -o af2.exe
 
 int main()
 {
