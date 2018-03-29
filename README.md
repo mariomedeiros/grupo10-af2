@@ -21,3 +21,7 @@ https://desktop.github.com/
     git remote add origin https://github.com/mariomedeiros/grupo10-af2.git
     git push -u origin master
 
+### Algumas dicas resumo do uso do Git:
+
+https://www.git-tower.com/blog/git-cheat-sheet/
+
