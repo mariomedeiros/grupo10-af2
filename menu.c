@@ -2,7 +2,6 @@
 
 #include "menu.h"
 
-void menu()
-{
+void menu(){
     printf(" ---- menu ---- \n");
 }
