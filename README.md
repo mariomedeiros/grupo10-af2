@@ -15,7 +15,6 @@ Para ser mais simples, instalar o cliente the Git:
 https://desktop.github.com/
 
 ### Linha de comandos, criando um um repositório:
-    echo "# grupo10-af2" >> README.md
     git init
     git add README.md
     git commit -m "first commit"
