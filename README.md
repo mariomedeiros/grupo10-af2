@@ -25,3 +25,9 @@ https://desktop.github.com/
 
 https://www.git-tower.com/blog/git-cheat-sheet/
 
+### Visual Studio Code
+
+Para que a formatação do código fique mais parecida possibe, usar o formatador de código Clang-Format
+
+https://marketplace.visualstudio.com/items?itemName=xaver.clang-format
+
