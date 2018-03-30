@@ -5,8 +5,10 @@
 #include "baseDeDados.h"
 #include "menu.h"
 
-// para compilar com as dependencias usar o commando (windows):
-// gcc -Wall config.h af2.c baseDeDados.c menu.c -o af2.exe
+/*
+   para compilar com as dependencias usar o commando (windows):
+   gcc -Wall config.h af2.c baseDeDados.c menu.c -o af2.exe
+*/
 
 int main()
 {
